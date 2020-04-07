@@ -1,0 +1,31 @@
+{
+  "name": "infermedica-covid-symptom-checker",
+  "version": "0.0.1",
+  "description": "Symptom checker library using the Infermedica API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deamoner/infermedica-covid-symptom-checker.git"
+  },
+  "keywords": [
+    "Covid-19",
+    "Coronavirus",
+    "Symptoms"
+  ],
+  "author": "Michael Auderer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deamoner/infermedica-covid-symptom-checker/issues"
+  },
+  "homepage": "https://github.com/Deamoner/infermedica-covid-symptom-checker#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
