@@ -1,0 +1,1 @@
+# Infermedica Covid Symptom Checker
